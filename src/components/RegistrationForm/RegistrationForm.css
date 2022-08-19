@@ -1,0 +1,14 @@
+.button {
+  text-align: center;
+}
+
+.inicioSesion {
+  /* margin-bottom: 3rem; */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.pLogin {
+  text-decoration: none;
+}
